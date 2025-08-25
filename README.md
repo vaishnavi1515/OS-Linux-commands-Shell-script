@@ -46,7 +46,10 @@ cat < file1
 
 
 cat < file2
+<img width="572" height="112" alt="Screenshot from 2025-08-25 21-45-43" src="https://github.com/user-attachments/assets/95ef48a1-e727-4628-b305-374eeb4de620" />
+
 ## OUTPUT
+<img width="573" height="104" alt="Screenshot from 2025-08-25 21-45-14" src="https://github.com/user-attachments/assets/bb7e8c14-6717-4dd1-be57-344294450e11" />
 
 
 # Comparing Files
