@@ -1074,6 +1074,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="606" height="187" alt="image" src="https://github.com/user-attachments/assets/f221f05a-e258-426b-9e12-af89f2495945" />
 
 
  cat exread1.sh
@@ -1087,6 +1088,7 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
+<img width="605" height="205" alt="image" src="https://github.com/user-attachments/assets/cc5c3a01-784e-4fb8-aa65-d1f3c039d7ea" />
 
 
 $ ./exread1.sh 
